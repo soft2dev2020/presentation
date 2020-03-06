@@ -31,12 +31,3 @@
   - [Task 7. ingress](./guide/guide-03/task-07.md)
   - [Bonus. Horizontal Pod Autoscaler](./guide/guide-03/bonus.md)
 
-## 문의 & 궁금한 사항
-
-페이스북 메신저 또는 트위터로 연락주세요.
-
-- http://slack.opencontainer.co.kr
-- https://www.facebook.com/subicura
-- https://twitter.com/subicura
-- subicura(at)subicura(dot)com
-# kubernetes presentation
